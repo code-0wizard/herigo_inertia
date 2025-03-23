@@ -1,6 +1,6 @@
 <template>
   <Head title=" | TOP" />
   <div>
-    <h1 class="">hello</h1>
+    <h1>hello</h1>
   </div>
 </template>
